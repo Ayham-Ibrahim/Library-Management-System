@@ -1,8 +1,6 @@
-## Library Management System
+## Document Management System (DMS)
 
-fully functional Web API for a **Library Management System** using Laravel. This API will manage books, authors, and users of the library, incorporating complex relationships and functionalities.
-
- with queue system to handle email notifications sent to users when new books are added or when books are borrowed or returned.
+Document Management System (DMS) using Laravel, which will serve as a platform for users to manage and organize various types of documents
 
 #### note : when you git clone from this repo and do (php aertisan migrate) dont forget to add seeders by 
 
@@ -17,5 +15,5 @@ password:  admin1234
 
 this is the API Documentation to help you in testing 
 ```bash
-https://documenter.getpostman.com/view/30465364/2sA3JM7gXU
+https://documenter.getpostman.com/view/30465364/2sA3JRXya7
 ```
